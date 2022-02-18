@@ -16,7 +16,8 @@ This will produce `stats.json` with content along the lines of:
     "flavor_ram": 303104,
     "flavor_vcpus": 116,
     "volume_count": 18,
-    "volume_size": 1280
+    "volume_size": 1280,
+    "floating_ips": 0,
   },
   [...]
 }
